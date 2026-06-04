@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/sumanpayal/skills-build-applications-w-copilot-agent-mode/issues"
   },
-  "homepage": "https://github.com/sumanpayal/skills-build-applications-w-copilot-agent-mode#readme"
+  "homepage": "https://github.com/sumanpayal/skills-build-applications-w-copilot-agent-mode#readme",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
 }
